@@ -1,12 +1,9 @@
-\# Tugas Praktikum 1 KMP
+# Tugas Praktikum 1 KMP
 
-\*\*Nama:\*\* JOVA PRATAMA NIHANDA
+Nama: JOVA PRATAMA NIHANDA
+NIM: 124140019
 
-\*\*NIM:\*\* 124140019
+## Hasil Run di Device
 
-
-
-\## Hasil Run di Device
-
-!\[Screenshot Aplikasi](screenshot.jpg)
+![Screenshot Aplikasi](screenshot.jpg)
 
